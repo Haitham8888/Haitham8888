@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Haitham Hattan
 
-![Profile Picture](https://your-image-link.png)  
+![Profile Picture](https://avatars.githubusercontent.com/u/162068695?v=4)  
 
 🚀 **Full-Stack Developer | Mobile Developer | Cybersecurity Enthusiast**  
 💻 Passionate about building secure and efficient applications
