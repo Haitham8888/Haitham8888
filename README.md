@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there! 👋 I'm Haitham Hattan
 
-<!--
-**Haitham8888/Haitham8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Mobile Developer | Cybersecurity Enthusiast**  
+💻 Passionate about building secure and efficient applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Technologies & Skills
+
+#### 📱 **Mobile Development**
+- Flutter (Dart)
+- Java
+- C++
+
+#### 🌐 **Web Development**
+- HTML, CSS, JavaScript
+- Node.js
+- PHP
+- Firebase
+- SQL
+
+#### 🐍 **Other Languages**
+- Python
+
+#### 🔒 **Cybersecurity & Pentesting**
+- Mobile App Penetration Testing
+- Secure App Development
+
+---
+
+### 📌 **Projects & Contributions**
+Check out my repositories to explore my work on mobile applications, web development, and security-related projects.
+
+🔗 **GitHub:** [github.com/HaithamHattan](https://github.com/Haitham8888)
+
+---
+
+### 📫 **Get in Touch**
+📧 Email: haitham@example.com  
+💼 LinkedIn: [linkedin.com/in/HaithamHattan](https://linkedin.com/in/HaithamHattan)  
+🐦 Twitter: [twitter.com/HaithamHattan](https://twitter.com/HattanHaitham)
+
+---
+
+💡 *Always exploring new tech and security challenges!*
