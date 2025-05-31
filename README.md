@@ -46,7 +46,7 @@ Check out my repositories to explore my work on mobile applications, web develop
 ---
 
 ## 📫 **Get in Touch**
-📧 Email: haitham.why@gmail.com  
+📧 Email: info@haithamhattan.sa 
 💼 LinkedIn: [linkedin.com/in/HaithamHattan](https://linkedin.com/in/HaithamHattan)  
 🐦 Twitter: [twitter.com/HattanHaitham](https://twitter.com/HattanHaitham)
 
