@@ -9,33 +9,53 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-### `< Building the future, one commit at a time />`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+%26+AI+Engineer+%40+MDS+CS+%F0%9F%8F%A2;Founder+%26+CEO+%40+Maysour+Fintech+Startup+%F0%9F%92%B3;Microsoft+Learn+Student+Ambassador+%F0%9F%9A%80;LLM+%7C+Vector+Search+%7C+Enterprise+Systems+%F0%9F%A4%96;Building+Intelligent%2C+Scalable%2C+Impactful+Tech+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%8C%90;Microsoft+Learn+Student+Ambassador+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/Based_in-Riyadh,_Saudi_Arabia_🇸🇦-0d1117?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Haitham8888&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ## 👨‍💻 About Me
 
 ```yaml
-name: Haitham Hattan
-location: Saudi Arabia 🇸🇦
-role: AI & Full-Stack Engineer
-community: Microsoft Learn Student Ambassador (MLSA)
+name:     Haitham Hattan
+role:     Software Engineer → AI Engineer
+company:  MDS for Computer Systems (MDS CS)
+startup:  Maysour — Fintech Co-Founder & CEO
+badge:    Microsoft Learn Student Ambassador (Alpha & Beta)
 
-current_focus:
-  - Building AI-powered products
-  - Integrating LLMs into real-world solutions
-  - Scalable backend architectures
+expertise:
+  - LLM Integration & Local/Offline AI Deployments
+  - Vector Search (Milvus) & AI Infrastructure
+  - Enterprise Systems (IBM WebSphere, FileNet)
+  - Full-Stack Development & RESTful APIs
+  - IoT Systems & GIS Analytics (Esri, IBM Cognos)
+  - Cybersecurity & Secure App Development
 
-philosophy: "Ship fast. Learn faster."
+philosophy: "Ship fast. Learn faster. Build what matters."
+contact:  info@haithamhattan.sa
 ```
 
 <br clear="right"/>
+
+---
+
+## 🏢 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| 🔵 **Software Engineer** | MDS for Computer Systems | Apr 2026 – Present |
+| 🔵 **Full Stack Developer** | MDS for Computer Systems | Jul 2025 – Apr 2026 |
+| 🟢 **Co-Founder & Software Engineer** | ميسور \| Maysour (Startup) | Aug 2022 – Present |
+| 🟡 **Microsoft Learn Student Ambassador** | Microsoft (Alpha & Beta) | Jan 2024 – Jul 2025 |
+| 🔴 **Cybersecurity & Data Analysis** | STC | 2023 – 2024 |
+| 🔴 **Network Security Engineer** | eHealth SA | Jun – Sep 2023 |
+| 🟣 **Founder** | HackerRank Club (HRSD) | Dec 2023 – Sep 2024 |
 
 ---
 
@@ -43,26 +63,34 @@ philosophy: "Ship fast. Learn faster."
 
 <div align="center">
 
-### ⚡ AI & Machine Learning
+### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 
-### 🌐 Full-Stack Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Full-Stack & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 📱 Mobile Development
+### 📱 Mobile & Systems
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🔒 Cybersecurity & Enterprise
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🛠 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,6 +103,34 @@ philosophy: "Ship fast. Learn faster."
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 💳 | **Yusr – ميسور** | Fintech app digitizing debt records for small businesses with secure payment tracking | Flutter · Firebase · Node.js |
+| 🐝 | **MNHAL** | IoT smart beehive monitoring — temperature, humidity & real-time hive analytics | IoT · Python · Sensors |
+| ☕ | **MNBET** | AI-driven coffee plant disease detection via image recognition | Python · ML · CV |
+| 🤖 | **SANKA BOT** | Automated bot for streamlining business processes & workflows | Python · Automation |
+| 🚚 | **Wasalni APP** | Delivery app serving Jazan region and nearby rural areas | Flutter · Dart |
+
+</div>
+
+---
+
+## 🏆 Hackathons & Awards
+
+```
+🥇  1st Place — Monsha'at Hackathon 2024        Best Solution Award (AI & Digital Tools)
+🥇  1st Place — Jaddathon Fikrathon 2023        AI Coffee Disease Detection System
+🥈  2nd Place — Bank Albilad Hackathon 2024     Fintech & Smart Debt Management
+🥉  3rd Place — Accounting Hackathon @ KSU      Smart Financial Automation Solution
+🥉  3rd Place — Jaddathon Hackathon 2024        MNHAL Smart Beehive IoT System
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -83,7 +139,7 @@ philosophy: "Ship fast. Learn faster."
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haitham8888&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haitham8888&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
 </div>
 
 <div align="center">
@@ -92,32 +148,17 @@ philosophy: "Ship fast. Learn faster."
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Certifications
 
 <div align="center">
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🤖 **AI Assistant** | LLM-powered intelligent assistant | Python · OpenAI · FastAPI |
-| 🌐 **Full-Stack App** | Scalable web application | Node.js · Firebase · JS |
-| 📱 **Mobile App** | Cross-platform mobile solution | Flutter · Dart |
-| ⚙️ **Automation Tools** | Technical workflow automation | Python · Scripting |
-
-> 🔍 *Explore all repositories for detailed project breakdowns.*
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-🎓 **Microsoft Learn Student Ambassador (MLSA)**
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🤖 **AI & LLM Integration Specialist**
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🌍 **Full-Stack & Mobile Engineer**
+![IBM](https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Cybersecurity_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Configure_SIEM_Security_Operations-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![SDAIA](https://img.shields.io/badge/SDAIA-AI_Fundamentals-006400?style=for-the-badge)
+![HackerRank](https://img.shields.io/badge/HackerRank-Software_Engineer-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 </div>
 
@@ -129,7 +170,7 @@ philosophy: "Ship fast. Learn faster."
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@haithamhattan.sa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HaithamHattan)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HattanHaitham)
+[![Twitter/X](https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HattanHaitham)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haitham8888)
 
 </div>
@@ -138,13 +179,13 @@ philosophy: "Ship fast. Learn faster."
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Haitham8888&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+```
+╔═══════════════════════════════════════════════════════════╗
+║   Building intelligent systems · Shipping reliable code  ║
+║      Empowering communities · Driving real impact 🇸🇦    ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-```
-╔══════════════════════════════════════════════╗
-║   Always exploring · Building · Learning    ║
-║           — one commit at a time —          ║
-╚══════════════════════════════════════════════╝
-```
+*"Always exploring. Always building. Always learning — one commit at a time."*
 
 </div>
