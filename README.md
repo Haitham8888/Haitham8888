@@ -9,10 +9,12 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+%26+AI+Engineer+%40+MDS+CS;Founder+%26+CEO+%40+Maysour+Fintech+Startup;Microsoft+Learn+Student+Ambassador;LLM+%7C+Vector+Search+%7C+Enterprise+Systems;Building+Intelligent%2C+Scalable%2C+Impactful+Tech)](https://git.io/typing-svg)
+# Haitham Hattan
 
-<img src="https://img.shields.io/badge/Based_in-Riyadh,_Saudi_Arabia-0d1117?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Haitham8888&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+**Software Engineer · Full-Stack Developer · AI Engineer**  
+**MDS for Computer Systems · Maysour Fintech Startup · Microsoft Learn Student Ambassador**
+
+`Riyadh, Saudi Arabia` · `Enterprise Systems` · `AI Infrastructure` · `Cloud` · `Cybersecurity` · `Vector Search`
 
 </div>
 
@@ -21,157 +23,210 @@
 ## About Me
 
 ```yaml
-name:     Haitham Hattan
-role:     Software Engineer → AI Engineer
-company:  MDS for Computer Systems (MDS CS)
-startup:  Maysour — Fintech Co-Founder & CEO
-badge:    Microsoft Learn Student Ambassador (Alpha & Beta)
-
-expertise:
-  - LLM Integration & Local/Offline AI Deployments
-  - Vector Search (Milvus) & AI Infrastructure
-  - Enterprise Systems (IBM WebSphere, FileNet)
-  - Full-Stack Development & RESTful APIs
-  - IoT Systems & GIS Analytics (Esri, IBM Cognos)
-  - Cybersecurity & Secure App Development
-
+name: Haitham Hattan
+role: Software Engineer / AI Engineer
+company: MDS for Computer Systems (MDS CS)
+startup: Maysour — Fintech Co-Founder & CEO
+location: Riyadh, Saudi Arabia
+education: B.Sc. Information Technology, Jazan University
+focus:
+  - Enterprise web applications and RESTful API development
+  - Local and offline AI systems for secure environments
+  - Vector search, face embeddings, and AI infrastructure
+  - Cloud-ready backend systems and scalable deployments
+  - Cybersecurity, secure application design, and network security
+  - GIS analytics, dashboards, and data-driven insights
 philosophy: "Ship fast. Learn faster. Build what matters."
-contact:  info@haithamhattan.sa
+contact: info@haithamhattan.sa
 ```
 
-<br clear="right"/>
+I build reliable enterprise applications, AI-powered systems, and practical digital products that solve real problems. My work combines full-stack engineering, cloud concepts, cybersecurity, local AI deployment, and data-driven platforms.
 
 ---
 
 ## Experience
 
-| Role | Company | Period |
-|------|---------|--------|
+| Role | Company / Organization | Period |
+|---|---|---|
 | **Software Engineer** | MDS for Computer Systems | Apr 2026 – Present |
 | **Full Stack Developer** | MDS for Computer Systems | Jul 2025 – Apr 2026 |
-| **Co-Founder & Software Engineer** | Maysour (Startup) | Aug 2022 – Present |
-| **Microsoft Learn Student Ambassador** | Microsoft (Alpha & Beta) | Jan 2024 – Jul 2025 |
+| **Co-Founder & Software Engineer** | Maysour Startup | Aug 2022 – Present |
+| **Microsoft Learn Student Ambassador** | Microsoft | Jan 2024 – Jul 2025 |
 | **Cybersecurity & Data Analysis** | STC | 2023 – 2024 |
-| **Network Security Engineer** | eHealth SA | Jun – Sep 2023 |
-| **Founder** | HackerRank Club (HRSD) | Dec 2023 – Sep 2024 |
+| **Network Security Engineer** | eHealth SA | Jun 2023 – Sep 2023 |
+| **Founder** | HackerRank Club | Dec 2023 – Sep 2024 |
+
+---
+
+## Core Technical Profile
+
+| Area | What I Work With |
+|---|---|
+| **Backend Engineering** | Java, Spring Boot, RESTful APIs, Node.js, PHP, API integration, authentication, enterprise services |
+| **Frontend & Mobile** | JavaScript, HTML, CSS, responsive UI, Flutter, Dart, mobile-first app development |
+| **AI & LLMs** | Python, Hugging Face, OpenAI APIs, local/offline LLMs, FastAPI AI services, prompt engineering, RAG concepts |
+| **Vector Search & Computer Vision** | Milvus, embeddings, face recognition pipelines, image similarity search, ONNX Runtime, InsightFace concepts |
+| **Cloud & Infrastructure** | Azure, cloud fundamentals, VMs, networking, IAM concepts, storage, deployment planning, cloud-ready APIs |
+| **Enterprise Platforms** | IBM WebSphere Application Server, HCL Digital Experience, IBM FileNet, IBM Cognos, Esri GIS |
+| **Cybersecurity** | Network security, secure coding, vulnerability assessment, OWASP, SIEM concepts, Linux/Kali tooling |
+| **DevOps & Systems** | Git, GitHub, Docker, Podman, Linux, RHEL, offline package management, logs, performance troubleshooting |
+| **Databases** | MySQL, Firebase, SQLite, relational design, data modeling, search-oriented storage |
 
 ---
 
 ## Tech Arsenal
 
-<div align="center">
+### AI, Machine Learning & Data
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+`Python` · `FastAPI` · `Hugging Face` · `OpenAI API` · `LangChain Concepts` · `Transformers` · `Local LLMs` · `Offline AI` · `RAG` · `Prompt Engineering` · `KeyBERT` · `NER` · `Computer Vision` · `ONNX Runtime` · `InsightFace` · `Milvus` · `Vector Databases` · `Embeddings` · `Data Analysis`
 
-### Full-Stack & Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Backend, APIs & Enterprise Development
 
-### Mobile & Systems
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+`Java` · `Spring Boot` · `RESTful APIs` · `Node.js` · `PHP` · `API Integration` · `Authentication` · `Authorization` · `JSON` · `XML` · `SOAP` · `Zeep` · `IBM WebSphere` · `HCL DX` · `IBM FileNet` · `IBM Cognos` · `Esri GIS`
 
-### Cybersecurity & Enterprise
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM_WebSphere-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+### Frontend & Mobile
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+`JavaScript` · `HTML5` · `CSS3` · `Responsive Design` · `Flutter` · `Dart` · `Firebase` · `Figma` · `UI/UX Prototyping` · `Mobile App Architecture`
 
-</div>
+### Cloud & Infrastructure
+
+`Microsoft Azure` · `Cloud Fundamentals` · `Virtual Machines` · `Cloud Networking` · `VNet / VPC Concepts` · `IAM Concepts` · `Object Storage Concepts` · `Load Balancing Concepts` · `Cloud Security Basics` · `Cloud Deployment Planning` · `Hybrid / On-Prem Integration` · `Scalable API Design`
+
+### Cybersecurity Skills & Tools
+
+`Cybersecurity Fundamentals` · `Network Security` · `Linux Security` · `Kali Linux` · `Secure Coding` · `OWASP Top 10` · `Web Application Security` · `API Security` · `Vulnerability Assessment` · `Penetration Testing Basics` · `SIEM & Security Operations` · `Incident Response Concepts` · `Cryptography Basics` · `Access Control` · `Authentication Security` · `Firewall Concepts` · `Threat Modeling`
+
+**Tools & practical areas:**  
+`Nmap` · `Wireshark` · `Burp Suite` · `Metasploit Concepts` · `SQL Injection Labs` · `MD5 Collision Labs` · `Log Analysis` · `Security Monitoring` · `Linux Hardening Basics` · `Postman for API Testing`
+
+### DevOps, Systems & Productivity
+
+`Git` · `GitHub` · `GitHub Copilot` · `VS Code` · `Docker` · `Podman` · `Linux` · `Red Hat Enterprise Linux` · `Bash` · `Offline Wheels` · `Container Logs` · `Performance Debugging` · `GPU / CUDA Troubleshooting` · `Postman`
+
+### Databases & Storage
+
+`MySQL` · `Firebase` · `SQLite` · `Relational Database Design` · `Data Modeling` · `Vector Indexing` · `Search Pipelines` · `Metadata Storage` · `Document Search Concepts`
 
 ---
 
 ## Featured Projects
 
-<div align="center">
+| Project | Description | Stack / Focus |
+|---|---|---|
+| **Yusr / Maysour** | Fintech app that digitizes debt records for small businesses, improves trust, and supports secure payment tracking | Flutter · Firebase · Node.js · Fintech |
+| **MortakizAi** | Local AI development engine focused on offline coding assistance, privacy, and model integration | Python · Local LLMs · Hugging Face · AI Infrastructure |
+| **Arabic AI Extraction API** | Offline Arabic text analysis service for summarization, keywords, entities, and structured extraction | FastAPI · Transformers · Arabic NLP · Local Models |
+| **MNHAL** | IoT smart beehive monitoring for temperature, humidity, activity, and real-time analytics | IoT · Python · Sensors · Sustainability |
+| **MNBET** | AI-powered coffee plant disease and pest detection using image recognition | Python · Machine Learning · Computer Vision |
+| **Taawun** | AI-assisted educational management platform for summaries, quizzes, and simplified learning content | AI · Education Tech · Automation |
+| **Edugate Portal** | Student services portal developed as a university mini-project | HTML · CSS · JavaScript · PHP · MySQL |
+| **Wasalni App** | Delivery app serving Jazan region and nearby rural areas | Flutter · Dart · Mobile App |
+| **SANKA BOT** | Automation bot for streamlining business processes and repetitive workflows | Python · Automation |
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Yusr – Maysour** | Fintech app digitizing debt records for small businesses with secure payment tracking | Flutter · Firebase · Node.js |
-| **MNHAL** | IoT smart beehive monitoring — temperature, humidity & real-time hive analytics | IoT · Python · Sensors |
-| **MNBET** | AI-driven coffee plant disease detection via image recognition | Python · ML · CV |
-| **SANKA BOT** | Automated bot for streamlining business processes & workflows | Python · Automation |
-| **Wasalni APP** | Delivery app serving Jazan region and nearby rural areas | Flutter · Dart |
+---
 
-</div>
+## AI & Offline Infrastructure Work
+
+```text
+Focus: local AI systems that can run in restricted, private, or offline environments.
+```
+
+- Built and tested local LLM workflows with Hugging Face model caches.
+- Worked with Arabic LLMs and fallback model chains for reliable extraction.
+- Designed FastAPI services for AI extraction, summarization, and keyword/entity analysis.
+- Explored vector search pipelines for face embeddings, image similarity, and document retrieval.
+- Used Milvus for scalable vector search experiments and large-scale embedding storage concepts.
+- Worked with GPU-aware model loading, CUDA troubleshooting, and VRAM optimization.
+- Tested deployment approaches across Linux, RHEL, containers, and offline environments.
+
+---
+
+## Cybersecurity Focus
+
+```text
+Goal: build systems that are useful, reliable, and secure by design.
+```
+
+- Secure application development and API security.
+- Web security concepts based on OWASP Top 10.
+- Network security fundamentals and traffic analysis.
+- Linux/Kali-based security labs and practical testing.
+- SQL Injection testing and payload analysis in controlled labs.
+- Hashing, MD5 collision concepts, and cryptography fundamentals.
+- SIEM and security operations concepts.
+- Log analysis, incident investigation basics, and security monitoring.
+- Authentication, authorization, access control, and secure session handling.
+- Security-minded architecture for fintech, enterprise, and AI systems.
+
+---
+
+## Cloud & Enterprise Infrastructure Focus
+
+```text
+Cloud mindset: design systems that are scalable, secure, observable, and deployable.
+```
+
+- Cloud fundamentals: compute, storage, networking, identity, monitoring, and availability.
+- Azure-aware development and cloud security basics.
+- VM-based deployments and hybrid/on-prem integration concepts.
+- Cloud-ready API architecture and backend service design.
+- Load balancing and reverse proxy concepts for enterprise systems.
+- Containerized deployment using Docker and Podman.
+- Enterprise application deployment experience with IBM WebSphere.
+- HCL Digital Experience theming, portal integration, and content delivery concepts.
+- FileNet search/integration exploration using SOAP and enterprise document services.
+- IBM Cognos and Esri GIS usage for dashboards, maps, and analytical views.
 
 ---
 
 ## Hackathons & Awards
 
 ```text
-1st Place — Monsha'at Hackathon 2024        Best Solution Award (AI & Digital Tools)
-1st Place — Jaddathon Fikrathon 2023        AI Coffee Disease Detection System
-2nd Place — Bank Albilad Hackathon 2024     Fintech & Smart Debt Management
-3rd Place — Accounting Hackathon @ KSU      Smart Financial Automation Solution
-3rd Place — Jaddathon Hackathon 2024        MNHAL Smart Beehive IoT System
+1st Place — Monsha'at Hackathon 2024          Best Solution Award
+1st Place — Jaddathon Fikrathon 2023          AI-powered agriculture concept
+2nd Place — Bank Albilad Hackathon 2024       Fintech & smart debt management
+3rd Place — Accounting Hackathon @ KSU        Smart financial automation solution
+3rd Place — Jaddathon Hackathon 2024          MNHAL smart beehive IoT system
+3rd Place — Environmental Sustainability      Jazan University
+4th Place — Code Hackathon in Jazan           Software innovation track
 ```
 
 ---
 
-## GitHub Stats
+## Certifications & Learning
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haitham8888&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haitham8888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haitham8888&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haitham8888&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="100%"/>
-</div>
+| Provider | Certification / Track |
+|---|---|
+| **IBM** | AI Fundamentals |
+| **IBM** | Cybersecurity Fundamentals |
+| **Microsoft** | Configure SIEM Security Operations |
+| **Google** | Cybersecurity Professional Certificate |
+| **Cisco** | Junior Cybersecurity Analyst |
+| **SDAIA** | AI Fundamentals |
+| **HackerRank** | Software Engineer |
 
 ---
 
-## Certifications
+## What I Like Building
 
-<div align="center">
-
-![IBM](https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Cybersecurity_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-Configure_SIEM_Security_Operations-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![SDAIA](https://img.shields.io/badge/SDAIA-AI_Fundamentals-006400?style=for-the-badge)
-![HackerRank](https://img.shields.io/badge/HackerRank-Software_Engineer-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-
-</div>
+- AI systems that work locally and respect privacy.
+- Enterprise applications that are stable, secure, and maintainable.
+- Fintech products that solve real market problems.
+- Cloud-ready APIs and scalable backend services.
+- Cybersecurity-aware applications and secure infrastructure.
+- Smart IoT systems for sustainability, agriculture, and operations.
+- Tools that help developers work faster and smarter.
 
 ---
 
 ## Connect With Me
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@haithamhattan.sa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HaithamHattan)
-[![Twitter/X](https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HattanHaitham)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haitham8888)
-
-</div>
+| Platform | Link |
+|---|---|
+| **Email** | info@haithamhattan.sa |
+| **LinkedIn** | https://linkedin.com/in/HaithamHattan |
+| **Twitter / X** | https://twitter.com/HattanHaitham |
+| **GitHub** | https://github.com/Haitham8888 |
 
 ---
 
@@ -180,10 +235,10 @@ contact:  info@haithamhattan.sa
 ```text
 ╔═══════════════════════════════════════════════════════════╗
 ║   Building intelligent systems · Shipping reliable code   ║
-║      Empowering communities · Driving real impact         ║
+║      Securing digital products · Driving real impact      ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-*"Always exploring. Always building. Always learning — one commit at a time."*
+**Always exploring. Always building. Always learning — one commit at a time.**
 
 </div>
